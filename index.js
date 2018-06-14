@@ -223,6 +223,6 @@ if(message.content == 'Sophie') {
 
 });
 
-bot.login('NDU1NDI1NjA4MjI3MjI1NjEw.Df8Gvg.8fNv4PP-cqF9pk0PbDQnI6574Vg');
+
 
 client.login(process.env.BOT_TOKEN);
